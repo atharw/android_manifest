@@ -5,7 +5,7 @@
 To setup your build enivornment and sync DU, please follow this guide: [Link](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Building_AOSP.txt)
 
 ## Submitting Patches ##
-Dirty Unicorns is open sourced and welcomes new contributors.
+DU  is open sourced and welcomes new contributors.
 
 To start contributing to DU, just register at "gerrit.dirtyunicorns.com".
 
